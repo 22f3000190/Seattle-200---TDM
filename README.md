@@ -1,3 +1,4 @@
+###ABOUT THE PROJECT
 - This script scrapes GitHub users in Seattle with over 200 followers and their repositories.
 - It processes user and repository data, cleans company names, and saves the information in CSV format.
 - The code uses Python and the GitHub API to retrieve up-to-date information.
